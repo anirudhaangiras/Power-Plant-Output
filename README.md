@@ -1,1 +1,1 @@
-# Power-Plant-Output
+# Power Plant Electrical Energy Output
