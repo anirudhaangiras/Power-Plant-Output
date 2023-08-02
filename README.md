@@ -1,4 +1,4 @@
-# Power Plant Electrical Energy Output
+# Powering Predictions: Energy Output Forecasting for a Combined Cycle Power Plant
 This repository contains a Python project that aims to predict the electrical energy output of a power plant based on various environmental factors, such as temperature, ambient pressure, relative humidity, and exhaust vacuum. Several regression models are utilised and evaluated for this prediction task, including Linear Regression, Decision Tree, Random Forest, XGBoost, and Neural Network.
 
 ## Dataset:
